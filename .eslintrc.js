@@ -16,6 +16,7 @@ module.exports = {
     ecmaVersion: 2018,
   },
   rules: {
-    "semi": 0
+    "semi": 0,
+    "no-plusplus": 0
   },
 };
